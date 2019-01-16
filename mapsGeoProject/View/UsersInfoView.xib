@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UsersInfoView" customModule="mapsGeoProject" customModuleProvider="target">
+            <connections>
+                <outlet property="subtitleLabel" destination="SiT-EX-BDT" id="XhL-U8-Wfh"/>
+                <outlet property="usersInfoLabel" destination="JuH-aM-6DY" id="79q-O9-MC7"/>
+                <outlet property="view" destination="iN0-l3-epB" id="ubC-Tk-U89"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="64" height="64"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" text="-" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JuH-aM-6DY">
+                    <rect key="frame" x="4" y="12" width="56" height="32"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="-" textAlignment="center" lineBreakMode="wordWrap" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsLetterSpacingToFitWidth="YES" adjustsFontForContentSizeCategory="YES" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="SiT-EX-BDT">
+                    <rect key="frame" x="4" y="44" width="56" height="12"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="10"/>
+                    <color key="textColor" cocoaTouchSystemColor="scrollViewTexturedBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <constraints>
+                <constraint firstItem="JuH-aM-6DY" firstAttribute="centerX" secondItem="iN0-l3-epB" secondAttribute="centerX" id="QLU-Ii-QnA"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="SiT-EX-BDT" secondAttribute="trailing" constant="4" id="Tjq-fp-8t4"/>
+                <constraint firstItem="JuH-aM-6DY" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="4" id="UeT-uc-rW8"/>
+                <constraint firstItem="JuH-aM-6DY" firstAttribute="top" secondItem="vUN-kp-3ea" secondAttribute="top" constant="12" id="V6d-1s-upn"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="bottom" secondItem="SiT-EX-BDT" secondAttribute="bottom" constant="8" id="cRH-CQ-3di"/>
+                <constraint firstItem="SiT-EX-BDT" firstAttribute="leading" secondItem="vUN-kp-3ea" secondAttribute="leading" constant="4" id="lEM-s2-jma"/>
+                <constraint firstItem="vUN-kp-3ea" firstAttribute="trailing" secondItem="JuH-aM-6DY" secondAttribute="trailing" constant="4" id="tjP-m3-kKt"/>
+                <constraint firstItem="SiT-EX-BDT" firstAttribute="top" secondItem="JuH-aM-6DY" secondAttribute="bottom" id="yi8-74-dhH"/>
+            </constraints>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <viewLayoutGuide key="safeArea" id="vUN-kp-3ea"/>
+            <point key="canvasLocation" x="153.59999999999999" y="101.64917541229386"/>
+        </view>
+    </objects>
+</document>

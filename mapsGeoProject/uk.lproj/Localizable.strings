@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  mapsGeoProject
+
+  Created by Michael Bielodied on 1/15/19.
+  Copyright © 2019 Michael Bielodied. All rights reserved.
+*/
+
+"back.title" = "НАЗАД";
+"reload.title" = "ПЕРЕЗАВАНТАЖЕННЯ";
+"accuracy.title" = "ТОЧНІСТЬ";
+"user.map.title" = "КАРТА КОРИСТУВАЧІВ";
+"user.locations.info.title" = "МІСЦЯ КОРИСТУВАЧА";
+"getting.users.label" = "отримання";
+"number.of.users.label" = "користувачів";
+
+"error.wrong.url.label" = "Неправильний формат URL-адреси";
+"error.failed.to.decode.data.label" = "Не вдалося декодувати дані";
+"error.failed.to.decode.json.label" = "Не вдалося розшифрувати json: %@";
+"error.failed.to.fetch.label" = "Не вдалося отримати: %@";

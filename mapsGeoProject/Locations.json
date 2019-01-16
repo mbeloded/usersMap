@@ -1,0 +1,26 @@
+[
+    {
+        "locationID": "5c3c386db46b6c709c21fcea",
+        "lat": -18.050684,
+        "lng": 121.558617,
+        "accuracy": 500,
+        "timestamp": "2016-04-20T12:53:41 -03:00",
+        "address": "353 Fenimore Street, Roy, Michigan, 137"
+    },
+    {
+        "locationID": "5c3c386d6346d7c134b591b2",
+        "lat": 17.019432,
+        "lng": -56.311587,
+        "accuracy": 401,
+        "timestamp": "2018-12-29T06:04:34 -02:00",
+        "address": "207 Kensington Walk, Fulford, Kansas, 6680"
+    },
+    {
+        "locationID": "5c3c386d6193ef2dfd891823",
+        "lat": -17.601934,
+        "lng": 109.505306,
+        "accuracy": 435,
+        "timestamp": "2018-07-09T03:39:15 -03:00",
+        "address": "662 Quentin Road, Marenisco, North Carolina, 5460"
+    }
+]

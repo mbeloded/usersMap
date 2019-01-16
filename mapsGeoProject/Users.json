@@ -1,0 +1,93 @@
+[
+    {
+        "userID": "5c3dee18ef3d66ac9611cc7d",
+        "name": "Turner Case",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee189e8186c01b0c713c",
+            "lat": 50.997768,
+            "lng": -90.349923,
+            "accuracy": 419,
+            "timestamp": "2018-02-27T08:48:25 -02:00",
+            "address": "181 Bayview Avenue, Cotopaxi, Kentucky, 8783"
+        }
+    },
+    {
+        "userID": "5c3dee188e3482f316258696",
+        "name": "Hines Gould",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee18ff0c42f15aaffc09",
+            "lat": -67.238975,
+            "lng": 162.125085,
+            "accuracy": 81,
+            "timestamp": "2014-03-12T07:51:27 -02:00",
+            "address": "693 Dennett Place, Omar, Mississippi, 9222"
+        }
+    },
+    {
+        "userID": "5c3dee18c59f55727ab7d847",
+        "name": "Jolene Davenport",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee189bfd9b6e8e01ded7",
+            "lat": -50.138435,
+            "lng": 25.919917,
+            "accuracy": 304,
+            "timestamp": "2015-10-23T11:07:33 -03:00",
+            "address": "896 Krier Place, Marysville, Maryland, 4133"
+        }
+    },
+    {
+        "userID": "5c3dee18bc9edaedd1352bfb",
+        "name": "Audrey Bishop",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee18752e50885a668c9d",
+            "lat": 39.17437,
+            "lng": 125.206321,
+            "accuracy": 376,
+            "timestamp": "2014-06-09T12:36:12 -03:00",
+            "address": "615 Waldorf Court, Wheaton, New Mexico, 5203"
+        }
+    },
+    {
+        "userID": "5c3dee18a73a90bf04f317ee",
+        "name": "Laurie Baird",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee18f0a3e0d0fcf51738",
+            "lat": 89.459617,
+            "lng": -24.864504,
+            "accuracy": 375,
+            "timestamp": "2014-01-04T06:30:17 -02:00",
+            "address": "964 Sapphire Street, Ernstville, Vermont, 5602"
+        }
+    },
+    {
+        "userID": "5c3dee188d5a462b54e4f0ba",
+        "name": "Puckett Nixon",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee18d19cdce562f351de",
+            "lat": 78.336379,
+            "lng": -115.366524,
+            "accuracy": 356,
+            "timestamp": "2017-12-07T12:09:13 -02:00",
+            "address": "928 Highland Avenue, Coalmont, Alaska, 6532"
+        }
+    },
+    {
+        "userID": "5c3dee188115373a003bfc46",
+        "name": "Rasmussen Mccray",
+        "photoUrl": "http://placehold.it/32x32",
+        "location": {
+            "locationID": "5c3dee18836c609b407e7b47",
+            "lat": 59.025998,
+            "lng": -46.525558,
+            "accuracy": 490,
+            "timestamp": "2015-10-08T08:04:06 -03:00",
+            "address": "582 Guider Avenue, Herlong, American Samoa, 6351"
+        }
+    }
+]

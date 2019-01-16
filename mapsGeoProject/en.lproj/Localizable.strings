@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  mapsGeoProject
+
+  Created by Michael Bielodied on 1/15/19.
+  Copyright © 2019 Michael Bielodied. All rights reserved.
+*/
+
+"back.title" = "BACK";
+"reload.title" = "RELOAD";
+"accuracy.title" = "accuracy";
+"user.map.title" = "USERS MAP";
+"user.locations.info.title" = "USER LOCATIONS";
+"getting.users.label" = "calculating";
+"number.of.users.label" = "users";
+
+"error.wrong.url.label" = "Wrong url format";
+"error.failed.to.decode.data.label" = "Failed to decode data";
+"error.failed.to.decode.json.label" = "Failed to decode json with: %@";
+"error.failed.to.fetch.label" = "Failed to fetch: %@";
